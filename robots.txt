@@ -1,0 +1,21 @@
+loop-slow:
+L
+R
+R
+S
+G loop-slow
+loop-fast:
+R
+G loop-fast
+
+// ili u suprotnu stranu
+
+loop-slow:
+R
+L
+L
+S
+G loop-slow
+loop-fast:
+L
+G loop-fast
